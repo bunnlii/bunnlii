@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Summoner Sync<br><br>🌱 I’m currently learning C++, Unreal Engine, and Node.js<br><br>❓ Ask me about anything. I'm opened to projects and collaboration<br><br>⚡ Fun fact: I love cat gifs 🐱
+🔭 I’m currently working on developing a game on unreal engine<br><br>🌱 I’m currently learning C++, Unreal Engine, and Node.js<br><br>❓ Ask me about anything. I'm opened to projects and collaboration<br><br>⚡ Fun fact: I love cat gifs 🐱
 
 
 ## 🌐 Socials:
